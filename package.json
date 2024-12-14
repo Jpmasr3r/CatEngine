@@ -1,12 +1,12 @@
 {
 	"name": "catengine",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "./dist/index.js",
 	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "tsc",
-		"format" : "npx @biomejs/biome format --write ./src"
+		"format": "npx @biomejs/biome format --write ./src"
 	},
 	"keywords": [],
 	"author": "João Pedro Anjolim Soares (Jpmasr3r)",
