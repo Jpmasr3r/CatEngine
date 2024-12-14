@@ -9,7 +9,7 @@
 		"format" : "npx @biomejs/biome format --write ./src"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "João Pedro Anjolim Soares (Jpmasr3r)",
 	"license": "ISC",
 	"description": "",
 	"devDependencies": {
