@@ -6,7 +6,7 @@ const optionsSchema = z.object({
 	height: z.number().min(1).positive(),
 });
 
-export default class CatSpite {
+export default class CatSprite {
 	public sheet: Array<string>;
 	public width: number;
 	public height: number;

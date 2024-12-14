@@ -3,5 +3,5 @@ package-lock.json
 biome.json
 *.js
 tsconfig.json
-
-
+test
+dist
